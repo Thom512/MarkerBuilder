@@ -8,6 +8,7 @@ Outil de développement FiveM
 - C'est tout
 
 ## Utilisation
+- n'oubilez pas de démarrer la ressource ``` start MarkerBuilder ``` après NativeUI
 - CTRL droite pour ouvrir le menu
 
 ## Résultat
